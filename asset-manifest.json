@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravininganiya.github.io/csb-6lkue9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ravininganiya.github.io/csb-6lkue9/static/js/main.20e7a0cf.chunk.js",
+    "main.js.map": "https://ravininganiya.github.io/csb-6lkue9/static/js/main.20e7a0cf.chunk.js.map",
+    "runtime-main.js": "https://ravininganiya.github.io/csb-6lkue9/static/js/runtime-main.149eb957.js",
+    "runtime-main.js.map": "https://ravininganiya.github.io/csb-6lkue9/static/js/runtime-main.149eb957.js.map",
+    "static/js/2.a047945c.chunk.js": "https://ravininganiya.github.io/csb-6lkue9/static/js/2.a047945c.chunk.js",
+    "static/js/2.a047945c.chunk.js.map": "https://ravininganiya.github.io/csb-6lkue9/static/js/2.a047945c.chunk.js.map",
+    "index.html": "https://ravininganiya.github.io/csb-6lkue9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ravininganiya.github.io/csb-6lkue9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a047945c.chunk.js.LICENSE.txt": "https://ravininganiya.github.io/csb-6lkue9/static/js/2.a047945c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149eb957.js",
+    "static/js/2.a047945c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.20e7a0cf.chunk.js"
+  ]
+}
